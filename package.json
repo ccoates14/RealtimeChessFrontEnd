@@ -1,0 +1,19 @@
+{
+    "name": "phaser-chess-game",
+    "version": "1.0.0",
+    "description": "A chess game built with Phaser.js",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "vite",
+      "build": "vite build"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "phaser": "^3.60.0"
+    },
+    "devDependencies": {
+      "vite": "^4.0.0"
+    },
+    "type": "module"
+  }
